@@ -79,9 +79,9 @@ WSGI_APPLICATION = 'vetdaily.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'vet',
-        'USER': 'nimo',
-        'PASSWORD':'kadesho62',
+        'NAME': 'travels',
+        'USER': 'charles',
+        'PASSWORD':'charles123',
     }
 }
 
