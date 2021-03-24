@@ -5,7 +5,7 @@ import datetime as dt
 
 class Enthusiast(models.Model):
     '''
-    This is a user model representing an animal health enthusiast who writes articles based
+    This is a user model representing a Travel in Hiking adventures
     '''
     first_name = models.CharField(max_length =30)
     last_name = models.CharField(max_length =30)
