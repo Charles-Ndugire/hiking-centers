@@ -104,7 +104,4 @@ class ArticleTestClass(TestCase):
         news_by_date = Article.days_article(date)
         self.assertTrue(len(article_by_date) == 0)
     
-    # def test_search_article(self):
-    #     search_title = self.new_article.filter(title)
-    #     self.assertTrue(self.new_article)
-
+    
