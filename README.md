@@ -14,7 +14,7 @@ A user can:
 
 ## Live Site link
 You can view the live application by following this [link](## Live Site link
-You can view the live application by following this [link](https://flask-blog254.herokuapp.com/)
+You can view the live application by following this [link](https://travelskenya.herokuapp.com/)
 
 
 
