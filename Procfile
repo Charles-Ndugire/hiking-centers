@@ -1,1 +1,1 @@
-web: gunicorn vetdaily.wsgi
+web: gunicorn travelskenya.wsgi
