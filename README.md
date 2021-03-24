@@ -13,7 +13,7 @@ A user can:
 * Copy link to the photos for contacting the hiking-centers
 
 ## Live Site link
-You can view the live application by following this [link](## Live Site link
+
 You can view the live application by following this [link](https://travelskenya.herokuapp.com/)
 
 
