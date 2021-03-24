@@ -20,10 +20,10 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path(r'',include('animalhealth.urls'))
+    path(r'',include('hikes.urls'))
 ]
 # from django.conf.urls import url,include
-# from django.contrib import admin
+# from django.contrib import a
 
 # urlpatterns = [
 #     url(r'^admin/', admin.site.urls),
