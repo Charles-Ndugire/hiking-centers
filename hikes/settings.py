@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'animalhealth.apps.AnimalhealthConfig',
+    'travels.apps.HikingConfig',
     'bootstrap3',
     'django.contrib.admin',
     'django.contrib.auth',
