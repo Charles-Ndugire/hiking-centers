@@ -4,8 +4,7 @@ import datetime as dt
 
 class EnthusiastTestClass(TestCase):
     '''
-    This is a an animal health enthusiast who is passionate about research of the various deseases that afects animals specicially cattle and writes articles on the causes and the possible measures that farmers can take
-    Provide information to farmers so that they can identify a disease and a possible outbreak which can then be attended to before it gets out of hand
+    Hiking is an activity of moderate difficulty, which involves walking across long distances generally on trails or paths. The duration of the activity varies between short half-day programs and longer itineraries of over 20 days. ... Hiking and trekking are two terms sometimes used indistinctly
     '''
     # Set up method
     def setUp(self):
