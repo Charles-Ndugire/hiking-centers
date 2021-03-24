@@ -5,9 +5,7 @@ from .models import Article
 
     
 def past_days_article(request,past_date):
-    
 
-# Converts data from the string Url:
 
     try:
         # Converts data from the string Url
